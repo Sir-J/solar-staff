@@ -27,7 +27,7 @@
         "core-js": "^3.2.1",
         "jquery": "^3.4.1",
         "js-ts-mapper": "^1.1.1",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "ng-block-ui": "^2.1.7",
         "ngx-toastr": "^11.0.0",
         "rxjs": "^6.5.3",
